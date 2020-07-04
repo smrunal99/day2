@@ -1,0 +1,348 @@
+
+Hp@DESKTOP-H8F7UTE MINGW64 ~ (master)
+$ pwd
+/c/Users/Hp
+
+Hp@DESKTOP-H8F7UTE MINGW64 ~ (master)
+$ cd ~
+
+Hp@DESKTOP-H8F7UTE MINGW64 ~ (master)
+$ ls -l
+total 8090
+drwxr-xr-x 1 Hp 197121       0 Apr  8 23:51 '3D Objects'/
+drwxr-xr-x 1 Hp 197121       0 Apr  8 23:25  AppData/
+lrwxrwxrwx 1 Hp 197121      27 Apr  8 23:23 'Application Data' -> /c/Users/Hp/AppData/Roaming/
+-rw-r--r-- 1 Hp 197121     271 Feb 26  2019  CC.java
+drwxr-xr-x 1 Hp 197121       0 Apr  8 23:51  Contacts/
+lrwxrwxrwx 1 Hp 197121      55 Apr  8 23:23  Cookies -> /c/Users/Hp/AppData/Local/Microsoft/Windows/INetCookies/
+-rw-r--r-- 1 Hp 197121     314 Feb 27  2019  DemoSuper.class
+-rw-r--r-- 1 Hp 197121     257 Feb 27  2019  DemoSuper.java
+drwxr-xr-x 1 Hp 197121       0 Jul  4 14:49  Desktop/
+drwxr-xr-x 1 Hp 197121       0 Jul  4 12:05  Documents/
+drwxr-xr-x 1 Hp 197121       0 Jul  4 15:10  Downloads/
+drwxr-xr-x 1 Hp 197121       0 Apr  8 23:51  Favorites/
+drwxr-xr-x 1 Hp 197121       0 Jul 30  2017  Intel/
+drwxr-xr-x 1 Hp 197121       0 Jul  4 14:35  IntelGraphicsProfiles/
+drwxr-xr-x 1 Hp 197121       0 Apr  8 23:51  Links/
+lrwxrwxrwx 1 Hp 197121      25 Apr  8 23:23 'Local Settings' -> /c/Users/Hp/AppData/Local/
+-rw-r--r-- 1 Hp 197121    1225 Mar  6  2019  Midterm.class
+drwxr-xr-x 1 Hp 197121       0 Apr  8 23:51  Music/
+lrwxrwxrwx 1 Hp 197121      21 Apr  8 23:23 'My Documents' -> /c/Users/Hp/Documents/
+drwxr-xr-x 1 Hp 197121       0 Jun 23 17:55 'my first unity project'/
+lrwxrwxrwx 1 Hp 197121      63 Apr  8 23:23  NetHood -> '/c/Users/Hp/AppData/Roaming/Microsoft/Windows/Network Shortcuts'/
+drwxr-xr-x 1 Hp 197121       0 Jun 23 16:41 'New Unity Project coursera'/
+drwxr-xr-x 1 Hp 197121       0 Jun 24 13:26 'New Unity Project crsera'/
+-rw-r--r-- 1 Hp 197121 5242880 Jul  4 13:28  NTUSER.DAT
+-rw-r--r-- 1 Hp 197121  421888 Apr  8 23:23  ntuser.dat.LOG1
+-rw-r--r-- 1 Hp 197121 1344512 Apr  8 23:23  ntuser.dat.LOG2
+-rw-r--r-- 1 Hp 197121   65536 Apr  8 23:23  NTUSER.DAT{fd9a35db-49fe-11e9-aa2c-248a07783950}.TM.blf
+-rw-r--r-- 1 Hp 197121  524288 Apr  8 23:23  NTUSER.DAT{fd9a35db-49fe-11e9-aa2c-248a07783950}.TMContainer00000000000000000001.regtrans-ms
+-rw-r--r-- 1 Hp 197121  524288 Apr  8 23:23  NTUSER.DAT{fd9a35db-49fe-11e9-aa2c-248a07783950}.TMContainer00000000000000000002.regtrans-ms
+-rw-r--r-- 1 Hp 197121      20 Apr  8 23:51  ntuser.ini
+drwxr-xr-x 1 Hp 197121       0 Jun 24 11:33  OneDrive/
+drwxr-xr-x 1 Hp 197121       0 Apr  8 23:51  Pictures/
+lrwxrwxrwx 1 Hp 197121      63 Apr  8 23:23  PrintHood -> '/c/Users/Hp/AppData/Roaming/Microsoft/Windows/Printer Shortcuts'/
+-rw-r--r-- 1 Hp 197121    1460 Aug 21  2017  privatekey.ppk
+-rw-r--r-- 1 Hp 197121     477 Aug 21  2017  publickey
+lrwxrwxrwx 1 Hp 197121      52 Apr  8 23:23  Recent -> /c/Users/Hp/AppData/Roaming/Microsoft/Windows/Recent/
+drwxr-xr-x 1 Hp 197121       0 Apr  8 23:51 'Saved Games'/
+drwxr-xr-x 1 Hp 197121       0 Apr  8 23:51  Searches/
+lrwxrwxrwx 1 Hp 197121      52 Apr  8 23:23  SendTo -> /c/Users/Hp/AppData/Roaming/Microsoft/Windows/SendTo/
+drwxr-xr-x 1 Hp 197121       0 Jul  4 11:29  source/
+lrwxrwxrwx 1 Hp 197121      56 Apr  8 23:23 'Start Menu' -> '/c/Users/Hp/AppData/Roaming/Microsoft/Windows/Start Menu'/
+-rw-r--r-- 1 Hp 197121     275 Feb 27  2019  Sub.class
+-rw-r--r-- 1 Hp 197121     135 Mar 25  2019  suhaas.java
+-rw-r--r-- 1 Hp 197121     627 Feb 27  2019  Super.class
+lrwxrwxrwx 1 Hp 197121      55 Apr  8 23:23  Templates -> /c/Users/Hp/AppData/Roaming/Microsoft/Windows/Templates/
+drwxr-xr-x 1 Hp 197121       0 Apr  8 23:51  Videos/
+
+Hp@DESKTOP-H8F7UTE MINGW64 ~ (master)
+$ ls -a
+ ./
+ ../
+ .bash_history
+ .cordova/
+ .git/
+ .gitconfig
+ .idlerc/
+ .nbi/
+ .vscode/
+'3D Objects'/
+ AppData/
+'Application Data'@
+ CC.java
+ Contacts/
+ Cookies@
+ DemoSuper.class
+ DemoSuper.java
+ Desktop/
+ Documents/
+ Downloads/
+ Favorites/
+ Intel/
+ IntelGraphicsProfiles/
+ Links/
+'Local Settings'@
+ Midterm.class
+ Music/
+'My Documents'@
+'my first unity project'/
+ NetHood@
+'New Unity Project coursera'/
+'New Unity Project crsera'/
+ NTUSER.DAT
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ NTUSER.DAT{fd9a35db-49fe-11e9-aa2c-248a07783950}.TM.blf
+ NTUSER.DAT{fd9a35db-49fe-11e9-aa2c-248a07783950}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{fd9a35db-49fe-11e9-aa2c-248a07783950}.TMContainer00000000000000000002.regtrans-ms
+ ntuser.ini
+ OneDrive/
+ Pictures/
+ PrintHood@
+ privatekey.ppk
+ publickey
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+ source/
+'Start Menu'@
+ Sub.class
+ suhaas.java
+ Super.class
+ Templates@
+ Videos/
+
+Hp@DESKTOP-H8F7UTE MINGW64 ~ (master)
+$ ls -la
+total 8123
+drwxr-xr-x 1 Hp 197121       0 Jul  4 14:44  ./
+drwxr-xr-x 1 Hp 197121       0 Apr  8 23:23  ../
+-rw-r--r-- 1 Hp 197121     853 Jul  4 14:49  .bash_history
+drwxr-xr-x 1 Hp 197121       0 Aug 17  2017  .cordova/
+drwxr-xr-x 1 Hp 197121       0 Jul  4 14:47  .git/
+-rw-r--r-- 1 Hp 197121     204 Jul  4 12:03  .gitconfig
+drwxr-xr-x 1 Hp 197121       0 Aug  3  2018  .idlerc/
+drwxr-xr-x 1 Hp 197121       0 Jan 15  2019  .nbi/
+drwxr-xr-x 1 Hp 197121       0 Jul  3 11:00  .vscode/
+drwxr-xr-x 1 Hp 197121       0 Apr  8 23:51 '3D Objects'/
+drwxr-xr-x 1 Hp 197121       0 Apr  8 23:25  AppData/
+lrwxrwxrwx 1 Hp 197121      27 Apr  8 23:23 'Application Data' -> /c/Users/Hp/AppData/Roaming/
+-rw-r--r-- 1 Hp 197121     271 Feb 26  2019  CC.java
+drwxr-xr-x 1 Hp 197121       0 Apr  8 23:51  Contacts/
+lrwxrwxrwx 1 Hp 197121      55 Apr  8 23:23  Cookies -> /c/Users/Hp/AppData/Local/Microsoft/Windows/INetCookies/
+-rw-r--r-- 1 Hp 197121     314 Feb 27  2019  DemoSuper.class
+-rw-r--r-- 1 Hp 197121     257 Feb 27  2019  DemoSuper.java
+drwxr-xr-x 1 Hp 197121       0 Jul  4 14:49  Desktop/
+drwxr-xr-x 1 Hp 197121       0 Jul  4 12:05  Documents/
+drwxr-xr-x 1 Hp 197121       0 Jul  4 15:10  Downloads/
+drwxr-xr-x 1 Hp 197121       0 Apr  8 23:51  Favorites/
+drwxr-xr-x 1 Hp 197121       0 Jul 30  2017  Intel/
+drwxr-xr-x 1 Hp 197121       0 Jul  4 14:35  IntelGraphicsProfiles/
+drwxr-xr-x 1 Hp 197121       0 Apr  8 23:51  Links/
+lrwxrwxrwx 1 Hp 197121      25 Apr  8 23:23 'Local Settings' -> /c/Users/Hp/AppData/Local/
+-rw-r--r-- 1 Hp 197121    1225 Mar  6  2019  Midterm.class
+drwxr-xr-x 1 Hp 197121       0 Apr  8 23:51  Music/
+lrwxrwxrwx 1 Hp 197121      21 Apr  8 23:23 'My Documents' -> /c/Users/Hp/Documents/
+drwxr-xr-x 1 Hp 197121       0 Jun 23 17:55 'my first unity project'/
+lrwxrwxrwx 1 Hp 197121      63 Apr  8 23:23  NetHood -> '/c/Users/Hp/AppData/Roaming/Microsoft/Windows/Network Shortcuts'/
+drwxr-xr-x 1 Hp 197121       0 Jun 23 16:41 'New Unity Project coursera'/
+drwxr-xr-x 1 Hp 197121       0 Jun 24 13:26 'New Unity Project crsera'/
+-rw-r--r-- 1 Hp 197121 5242880 Jul  4 13:28  NTUSER.DAT
+-rw-r--r-- 1 Hp 197121  421888 Apr  8 23:23  ntuser.dat.LOG1
+-rw-r--r-- 1 Hp 197121 1344512 Apr  8 23:23  ntuser.dat.LOG2
+-rw-r--r-- 1 Hp 197121   65536 Apr  8 23:23  NTUSER.DAT{fd9a35db-49fe-11e9-aa2c-248a07783950}.TM.blf
+-rw-r--r-- 1 Hp 197121  524288 Apr  8 23:23  NTUSER.DAT{fd9a35db-49fe-11e9-aa2c-248a07783950}.TMContainer00000000000000000001.regtrans-ms
+-rw-r--r-- 1 Hp 197121  524288 Apr  8 23:23  NTUSER.DAT{fd9a35db-49fe-11e9-aa2c-248a07783950}.TMContainer00000000000000000002.regtrans-ms
+-rw-r--r-- 1 Hp 197121      20 Apr  8 23:51  ntuser.ini
+drwxr-xr-x 1 Hp 197121       0 Jun 24 11:33  OneDrive/
+drwxr-xr-x 1 Hp 197121       0 Apr  8 23:51  Pictures/
+lrwxrwxrwx 1 Hp 197121      63 Apr  8 23:23  PrintHood -> '/c/Users/Hp/AppData/Roaming/Microsoft/Windows/Printer Shortcuts'/
+-rw-r--r-- 1 Hp 197121    1460 Aug 21  2017  privatekey.ppk
+-rw-r--r-- 1 Hp 197121     477 Aug 21  2017  publickey
+lrwxrwxrwx 1 Hp 197121      52 Apr  8 23:23  Recent -> /c/Users/Hp/AppData/Roaming/Microsoft/Windows/Recent/
+drwxr-xr-x 1 Hp 197121       0 Apr  8 23:51 'Saved Games'/
+drwxr-xr-x 1 Hp 197121       0 Apr  8 23:51  Searches/
+lrwxrwxrwx 1 Hp 197121      52 Apr  8 23:23  SendTo -> /c/Users/Hp/AppData/Roaming/Microsoft/Windows/SendTo/
+drwxr-xr-x 1 Hp 197121       0 Jul  4 11:29  source/
+lrwxrwxrwx 1 Hp 197121      56 Apr  8 23:23 'Start Menu' -> '/c/Users/Hp/AppData/Roaming/Microsoft/Windows/Start Menu'/
+-rw-r--r-- 1 Hp 197121     275 Feb 27  2019  Sub.class
+-rw-r--r-- 1 Hp 197121     135 Mar 25  2019  suhaas.java
+-rw-r--r-- 1 Hp 197121     627 Feb 27  2019  Super.class
+lrwxrwxrwx 1 Hp 197121      55 Apr  8 23:23  Templates -> /c/Users/Hp/AppData/Roaming/Microsoft/Windows/Templates/
+drwxr-xr-x 1 Hp 197121       0 Apr  8 23:51  Videos/
+
+Hp@DESKTOP-H8F7UTE MINGW64 ~ (master)
+$ cd
+
+Hp@DESKTOP-H8F7UTE MINGW64 ~ (master)
+$ cd ..
+
+Hp@DESKTOP-H8F7UTE MINGW64 /c/Users
+$ cd ../ ../
+bash: cd: too many arguments
+
+Hp@DESKTOP-H8F7UTE MINGW64 /c/Users
+$ cd ../../
+
+Hp@DESKTOP-H8F7UTE MINGW64 /
+$ pwd
+/
+
+Hp@DESKTOP-H8F7UTE MINGW64 /
+$ cd ~
+
+Hp@DESKTOP-H8F7UTE MINGW64 ~ (master)
+$ pwd
+/c/Users/Hp
+
+Hp@DESKTOP-H8F7UTE MINGW64 ~ (master)
+$ cd
+
+Hp@DESKTOP-H8F7UTE MINGW64 ~ (master)
+$ cd ..
+
+Hp@DESKTOP-H8F7UTE MINGW64 /c/Users
+$ pwd
+/c/Users
+
+Hp@DESKTOP-H8F7UTE MINGW64 /c/Users
+$ touch mruu.txt
+touch: cannot touch 'mruu.txt': Permission denied
+
+Hp@DESKTOP-H8F7UTE MINGW64 /c/Users
+$ ls
+'All Users'@  'Default User'@   Hp/                  Public/
+ Default/      desktop.ini     'MSSQL$SQLEXPRESS'/
+
+Hp@DESKTOP-H8F7UTE MINGW64 /c/Users
+$ pwd
+/c/Users
+
+Hp@DESKTOP-H8F7UTE MINGW64 /c/Users
+$ ls
+'All Users'@  'Default User'@   Hp/                  Public/
+ Default/      desktop.ini     'MSSQL$SQLEXPRESS'/
+
+Hp@DESKTOP-H8F7UTE MINGW64 /c/Users
+$ cd hp
+
+Hp@DESKTOP-H8F7UTE MINGW64 /c/Users/hp (master)
+$ pwd
+/c/Users/hp
+
+Hp@DESKTOP-H8F7UTE MINGW64 /c/Users/hp (master)
+$ ls
+'3D Objects'/
+ AppData/
+'Application Data'@
+ CC.java
+ Contacts/
+ Cookies@
+ DemoSuper.class
+ DemoSuper.java
+ Desktop/
+ Documents/
+ Downloads/
+ Favorites/
+ Intel/
+ IntelGraphicsProfiles/
+ Links/
+'Local Settings'@
+ Midterm.class
+ Music/
+'My Documents'@
+'my first unity project'/
+ NetHood@
+'New Unity Project coursera'/
+'New Unity Project crsera'/
+ NTUSER.DAT
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ NTUSER.DAT{fd9a35db-49fe-11e9-aa2c-248a07783950}.TM.blf
+ NTUSER.DAT{fd9a35db-49fe-11e9-aa2c-248a07783950}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{fd9a35db-49fe-11e9-aa2c-248a07783950}.TMContainer00000000000000000002.regtrans-ms
+ ntuser.ini
+ OneDrive/
+ Pictures/
+ PrintHood@
+ privatekey.ppk
+ publickey
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+ source/
+'Start Menu'@
+ Sub.class
+ suhaas.java
+ Super.class
+ Templates@
+ Videos/
+
+Hp@DESKTOP-H8F7UTE MINGW64 /c/Users/hp (master)
+$ cd pictures
+
+Hp@DESKTOP-H8F7UTE MINGW64 /c/Users/hp/pictures (master)
+$ pwd
+/c/Users/hp/pictures
+
+Hp@DESKTOP-H8F7UTE MINGW64 /c/Users/hp/pictures (master)
+$ touch mruu.txt
+
+Hp@DESKTOP-H8F7UTE MINGW64 /c/Users/hp/pictures (master)
+$ mkdir abc
+
+Hp@DESKTOP-H8F7UTE MINGW64 /c/Users/hp/pictures (master)
+$ pwd
+/c/Users/hp/pictures
+
+Hp@DESKTOP-H8F7UTE MINGW64 /c/Users/hp/pictures (master)
+$ ls
+ abc/  'Camera Roll'/   desktop.ini   mruu.txt  'Saved Pictures'/
+
+Hp@DESKTOP-H8F7UTE MINGW64 /c/Users/hp/pictures (master)
+$ rm mruu.txt
+
+Hp@DESKTOP-H8F7UTE MINGW64 /c/Users/hp/pictures (master)
+$ ls
+ abc/  'Camera Roll'/   desktop.ini  'Saved Pictures'/
+
+Hp@DESKTOP-H8F7UTE MINGW64 /c/Users/hp/pictures (master)
+$ touch mruu.txt
+
+Hp@DESKTOP-H8F7UTE MINGW64 /c/Users/hp/pictures (master)
+$ ls
+ abc/  'Camera Roll'/   desktop.ini   mruu.txt  'Saved Pictures'/
+
+Hp@DESKTOP-H8F7UTE MINGW64 /c/Users/hp/pictures (master)
+$ rm -r mruu.txt
+
+Hp@DESKTOP-H8F7UTE MINGW64 /c/Users/hp/pictures (master)
+$ ls
+ abc/  'Camera Roll'/   desktop.ini  'Saved Pictures'/
+
+Hp@DESKTOP-H8F7UTE MINGW64 /c/Users/hp/pictures (master)
+$ ls
+ abc/  'Camera Roll'/   desktop.ini  'Saved Pictures'/
+
+Hp@DESKTOP-H8F7UTE MINGW64 /c/Users/hp/pictures (master)
+$ touch mruu.txt
+
+Hp@DESKTOP-H8F7UTE MINGW64 /c/Users/hp/pictures (master)
+$ ls
+ abc/  'Camera Roll'/   desktop.ini   mruu.txt  'Saved Pictures'/
+
+Hp@DESKTOP-H8F7UTE MINGW64 /c/Users/hp/pictures (master)
+$ cp -r pictures hp
+cp: cannot stat 'pictures': No such file or directory
+
+Hp@DESKTOP-H8F7UTE MINGW64 /c/Users/hp/pictures (master)
+$ pwd
+/c/Users/hp/pictures
+
+Hp@DESKTOP-H8F7UTE MINGW64 /c/Users/hp/pictures (master)
+$ cat
+pwd
+pwd
